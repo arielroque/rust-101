@@ -35,4 +35,17 @@ fn main() {
     // end of code block
 
     println!("Outer variable outside block: {}", outer_variable);
+
+    // CONSTANTS
+    // Rust have a constant type
+    // This type is suitable when you have a constante value to
+    // share in the code 
+
+    // Immutable variable vs const
+    // Const is assigned in compiled time where Rust can let improve
+    // the perfomance. The immutable variable is assigned in the execution
+    // time, therefore, is suitable to value that can be receive by a function 
+    
+    
+    const MAX_ITEMS: u32 = 100;
 }

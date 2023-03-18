@@ -1,0 +1,1 @@
+/media/ariel/Backup/Programacao/Projetos/Rust/rust-101/examples/conditional_expressions/target/debug/conditional_expressions: /media/ariel/Backup/Programacao/Projetos/Rust/rust-101/examples/conditional_expressions/src/main.rs

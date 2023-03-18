@@ -136,6 +136,21 @@ fn main() {
     println!("Slice arrray is {:?}", slice_array);
 
 
+    //Tuples
+    // Means heterogeneous sequences of elements
+
+    //implicity definition
+    let tuple = ("value1",'c',1);
+    let tuple2:(&str,char,i32) = ("value1",'c',1);
+
+    println!("Tuple {:?}",tuple);
+    println!("Tuple2 {:?}",tuple2);
+
+    println!("Access position1 on tuple: {}",tuple.0)
+
+
+
+
 
 
 
